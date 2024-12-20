@@ -116,8 +116,18 @@
       </a>
       <br>Redux
     </td>
-  </tr> 
-    <tr>
+    <td align="center" width="110" height="90">
+      <a href="#Winter-stack" >
+        <img src="https://github.com/pmndrs/zustand/blob/main/examples/demo/public/logo192.png" width="36" height="36" alt="Zustand" />
+      </a>
+      <br>Zustand
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#Winter-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" width="36" height="36" alt="D3" />
+      </a>
+      <br>D3
+    </td> 
     <td align="center" width="110" height="90"> 
       <a href="#Winter-stack" >
         <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
